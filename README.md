@@ -1,10 +1,4 @@
-If you want to rename your **GitHub repository** containing the **E-commerce Customer Behavior Dataset**, you should consider a name that is:  
-
-✅ **Descriptive** – Clearly conveys the dataset's purpose.  
-✅ **Concise** – Avoids unnecessary words.  
-✅ **SEO-friendly** – Easy to find in searches.  
-✅ **Consistent** – Matches standard dataset naming conventions.  
-
+ 
 ### **Suggested Repository Names**  
 1. **ecommerce-customer-behavior** *(Simple and clear)*  
 2. **ecommerce-user-analytics** *(Focus on analytics aspect)*  
